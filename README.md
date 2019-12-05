@@ -1,8 +1,6 @@
 
-
-----------
-----------
 input 받아오기 기본중의 기본이 되도록
+
 ![](https://paper-attachments.dropbox.com/s_ECE9D6C84F5D40D46F9C99BDED424F0BA41F546EE9EE2B03BC51A1D9FC128356_1572009526475_image.png)
 
 ![string](https://paper-attachments.dropbox.com/s_ECE9D6C84F5D40D46F9C99BDED424F0BA41F546EE9EE2B03BC51A1D9FC128356_1572009538812_image.png)
@@ -263,15 +261,9 @@ a , b = input().split(‘기준문자열’) 이 list 언팩킹 과정이었음.
 
 
 
-
-
-
-
-
 ----------
 딕셔너리
 
-ㅍ
 
 ![](https://paper-attachments.dropbox.com/s_ECE9D6C84F5D40D46F9C99BDED424F0BA41F546EE9EE2B03BC51A1D9FC128356_1569486394294_image.png)
 
@@ -379,8 +371,6 @@ Greedy 알고리즘
 
 
 
-map
-
 ----------
 <tuple> 응용 문제풀면서
 
@@ -402,5 +392,5 @@ map
 파일입출력
 
 
-![20191007 수업때](https://paper-attachments.dropbox.com/s_ECE9D6C84F5D40D46F9C99BDED424F0BA41F546EE9EE2B03BC51A1D9FC128356_1570438614023_image.png)
+![](https://paper-attachments.dropbox.com/s_ECE9D6C84F5D40D46F9C99BDED424F0BA41F546EE9EE2B03BC51A1D9FC128356_1570438614023_image.png)
 
